@@ -1,7 +1,7 @@
 title: Party Decisions
 is-pinned-card: true
 tags: advisor
-card-image: img/rally.jpg
+card-image: img/partydeck.jpg
 on-arrival: last_party_action = 1
 new-page: true 
 
