@@ -1,0 +1,17 @@
+title: Paramilitary Decisions
+is-pinned-card: true
+tags: advisor
+card-image: img/ParaRally.jpg
+on-arrival: last_paramilitary_action = 1
+new-page: true 
+
+= Party Decisions
+
+Rather than relying on random cards, we can instead choose directly which actions we want to take.
+
+- #para_affairs
+- @back: Return to main
+
+@back
+on-arrival: last_paramilitary_action = 0
+go-to: root
